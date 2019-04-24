@@ -1,0 +1,14 @@
+C:\Users\dcL\source\repos\labFinal\labFinal\bin\Debug\netcoreapp2.1\labFinal.deps.json
+C:\Users\dcL\source\repos\labFinal\labFinal\bin\Debug\netcoreapp2.1\labFinal.runtimeconfig.json
+C:\Users\dcL\source\repos\labFinal\labFinal\bin\Debug\netcoreapp2.1\labFinal.runtimeconfig.dev.json
+C:\Users\dcL\source\repos\labFinal\labFinal\bin\Debug\netcoreapp2.1\labFinal.dll
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.csprojAssemblyReference.cache
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.csproj.CoreCompileInputs.cache
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.RazorAssemblyInfo.cache
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.RazorAssemblyInfo.cs
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.AssemblyInfoInputs.cache
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.AssemblyInfo.cs
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.RazorTargetAssemblyInfo.cache
+C:\Users\dcL\source\repos\labFinal\labFinal\bin\Debug\netcoreapp2.1\labFinal.pdb
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.dll
+C:\Users\dcL\source\repos\labFinal\labFinal\obj\Debug\netcoreapp2.1\labFinal.pdb

@@ -1,0 +1,14 @@
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\bin\Debug\netcoreapp2.1\ShopManagement.deps.json
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\bin\Debug\netcoreapp2.1\ShopManagement.runtimeconfig.json
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\bin\Debug\netcoreapp2.1\ShopManagement.runtimeconfig.dev.json
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\bin\Debug\netcoreapp2.1\ShopManagement.dll
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.csprojAssemblyReference.cache
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.RazorAssemblyInfo.cache
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.RazorAssemblyInfo.cs
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.AssemblyInfoInputs.cache
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.AssemblyInfo.cs
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.RazorTargetAssemblyInfo.cache
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\bin\Debug\netcoreapp2.1\ShopManagement.pdb
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.dll
+C:\Users\dcL\source\repos\ShopManagement\ShopManagement\obj\Debug\netcoreapp2.1\ShopManagement.pdb

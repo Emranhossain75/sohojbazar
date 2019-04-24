@@ -1,0 +1,14 @@
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\bin\Debug\netcoreapp2.1\SOHOJBAZAR.deps.json
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\bin\Debug\netcoreapp2.1\SOHOJBAZAR.runtimeconfig.json
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\bin\Debug\netcoreapp2.1\SOHOJBAZAR.runtimeconfig.dev.json
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\bin\Debug\netcoreapp2.1\SOHOJBAZAR.dll
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\bin\Debug\netcoreapp2.1\SOHOJBAZAR.pdb
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.csprojAssemblyReference.cache
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.csproj.CoreCompileInputs.cache
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.RazorAssemblyInfo.cache
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.RazorAssemblyInfo.cs
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.AssemblyInfoInputs.cache
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.AssemblyInfo.cs
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.RazorTargetAssemblyInfo.cache
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.dll
+C:\Users\dcL\source\repos\SOHOJBAZAR\SOHOJBAZAR\obj\Debug\netcoreapp2.1\SOHOJBAZAR.pdb
